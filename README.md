@@ -61,13 +61,12 @@ Program : Program to verify the truth table in quartus for the basic logic gates
 Developed by: SWETHA .A
 RegisterNumber: 23003624 
 
-Code: ![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/dc072150-9a05-4ad9-9267-8525cb4e6ca2)
+Code:![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/47cd68b6-75e0-4abb-8ac9-8b0f263a09b0)
+
+Truth Table:![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/1e41bce3-2409-4c38-8f33-da9a6f22ef31)
 
 
-Truth Table:![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/81525801-f64b-41f1-af6e-7c2b96b2cb06)
-
-
-RTL :![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/a831310a-4f96-4d3b-a7cb-cc33d61cbc9d)
+RTL :![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/68a365bc-7961-4a12-ae6c-64cfaf405400)
 
 
 Output:![image](https://github.com/aswethaashok/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/149987410/f2ec826a-34f2-4205-8151-4ddeedd63e28)
